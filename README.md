@@ -1,6 +1,6 @@
 # Machine-Learning-Based-Student-Grade-Prediction
-Machine Learning Based Student Grade Prediction 
-Credits: Aastha Jha, Paridhi Garg, Siddhaling Urolaing
+ 
+## Credits: Aastha Jha, Paridhi Garg, Siddhaling Urolaing
 
 Methodologically, analysis of the previous academic performance of students admitted can be used to better predict their future performance using data mining techniques like machine learning. Different data mining techniques can be used to predict students’ grades which will provide valuable information which will help in facilitating students’ retention in the enrolled courses. 
 The following diagram shows the step wise description of the grade prediction procedure used in this project. 
